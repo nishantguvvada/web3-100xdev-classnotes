@@ -1,4 +1,4 @@
-## CLASS NOTES
+## WEB3 CLASS NOTES
 
 [Week 1](https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-1) 
 
