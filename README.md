@@ -9,3 +9,5 @@
 [Week 4 - Wallet Adapter](https://petal-estimate-4e9.notion.site/Wallet-adapter-860feade9cb940cea696eedf4fc61251)
 
 [Week 5 - Token Launchpad in React](https://petal-estimate-4e9.notion.site/Token-launchpad-in-react-f0027bd023d4467ab5eb87d16ab21b40)
+
+[Week 6 - Ownership, Programs, PDAs](https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b)
