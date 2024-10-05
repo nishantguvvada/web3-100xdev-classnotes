@@ -11,3 +11,5 @@
 [Week 5 - Token Launchpad in React](https://petal-estimate-4e9.notion.site/Token-launchpad-in-react-f0027bd023d4467ab5eb87d16ab21b40)
 
 [Week 6 - Ownership, Programs, PDAs](https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b)
+
+[Week 9 - Decentralized exchanges](https://petal-estimate-4e9.notion.site/Context-1147dfd1073580fc8712d69b6477cb42)
