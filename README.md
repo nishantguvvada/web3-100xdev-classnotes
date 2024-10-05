@@ -12,4 +12,8 @@
 
 [Week 6 - Ownership, Programs, PDAs](https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b)
 
+[Week 7 - No Notes]()
+
+[Week 8 - Break]()
+
 [Week 9 - Decentralized exchanges](https://petal-estimate-4e9.notion.site/Context-1147dfd1073580fc8712d69b6477cb42)
