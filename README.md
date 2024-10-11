@@ -17,3 +17,7 @@
 [Week 8 - Break]()
 
 [Week 9 - Decentralized exchanges](https://petal-estimate-4e9.notion.site/Context-1147dfd1073580fc8712d69b6477cb42)
+
+# Solana Dependencies
+
+npm install @solana/wallet-adapter-base @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js
