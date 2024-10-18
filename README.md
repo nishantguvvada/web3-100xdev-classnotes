@@ -18,6 +18,8 @@
 
 [Week 9 - Decentralized exchanges](https://petal-estimate-4e9.notion.site/Context-1147dfd1073580fc8712d69b6477cb42)
 
+[Week 10 - ETH introduction, EVM, Bytecode, Opcode]
+
 # Solana Dependencies
 
 ```
