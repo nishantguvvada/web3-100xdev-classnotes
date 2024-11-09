@@ -24,6 +24,10 @@
 
 [Week 12 - Liquidity Pools, Impermanent Loss](https://petal-estimate-4e9.notion.site/DEXs-funding-1297dfd107358026b8d1c232caf6dbcd)
 
+[Week 13 - Liquid Staking Tokens](https://www.canva.com/design/DAGVOvVE1ow/wTKvuP2OnyLuvr4aAwtM-A/edit)
+
+[Week 14 - Project Class](https://petal-estimate-4e9.notion.site/Projects-class-1387dfd1073580a6912be8ca93cc7479)
+
 # Solana Dependencies
 
 ```
