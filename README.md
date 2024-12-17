@@ -28,9 +28,9 @@
 
 [Week 14 - Project Class](https://petal-estimate-4e9.notion.site/Projects-class-1387dfd1073580a6912be8ca93cc7479)
 
-[Week 15 - ETH Tutorial]
+[Week 15 - ETH Tutorial]()
 
-[Week 16 - Payables, CCIs in ETH]
+[Week 16 - Payables, CCIs in ETH]()
 
 # Solana Dependencies
 
