@@ -32,6 +32,10 @@
 
 [Week 16 - Payables, CCIs in ETH]()
 
+[Week 17 - ERC-20]()
+
+[Week 18 - Bridges](https://petal-estimate-4e9.notion.site/Bridges-15b7dfd107358034b742dff2603772d7)
+
 # Solana Dependencies
 
 ```
