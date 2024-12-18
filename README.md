@@ -28,11 +28,13 @@
 
 [Week 14 - Project Class](https://petal-estimate-4e9.notion.site/Projects-class-1387dfd1073580a6912be8ca93cc7479)
 
-[Week 15 - ETH Tutorial]()
+[Week 15 - ETH Tutorial](https://www.canva.com/design/DAGWfh7FkYs/atPF0eKRrFcVvxIWs1R3Sw/edit)
 
-[Week 16 - Payables, CCIs in ETH]()
+[Week 16 - Payables, CCIs in ETH](https://www.canva.com/design/DAGWfh7FkYs/atPF0eKRrFcVvxIWs1R3Sw/edit)
 
-[Week 17 - ERC-20]()
+[Week 17 - ERC-20](https://www.canva.com/design/DAGX2bNokA4/GxsU4k_ZwuyNJrqcK4LaNw/edit)
+
+[Week 18 - Ganache, Foundry](https://petal-estimate-4e9.notion.site/Ganache-Trufle-Hardhat-and-Foundry-1537dfd1073580029822c7874ed1f37c)
 
 [Week 18 - Bridges](https://petal-estimate-4e9.notion.site/Bridges-15b7dfd107358034b742dff2603772d7)
 
