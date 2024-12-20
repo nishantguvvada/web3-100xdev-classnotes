@@ -36,7 +36,9 @@
 
 [Week 18 - Ganache, Foundry](https://petal-estimate-4e9.notion.site/Ganache-Trufle-Hardhat-and-Foundry-1537dfd1073580029822c7874ed1f37c)
 
-[Week 18 - Bridges](https://petal-estimate-4e9.notion.site/Bridges-15b7dfd107358034b742dff2603772d7)
+[Week 19 - Bridges](https://petal-estimate-4e9.notion.site/Bridges-15b7dfd107358034b742dff2603772d7)
+
+[Week 20 - Bridges cont.](https://petal-estimate-4e9.notion.site/Bridges-15b7dfd107358034b742dff2603772d7)
 
 # Solana Dependencies
 
