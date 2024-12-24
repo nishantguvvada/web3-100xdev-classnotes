@@ -45,3 +45,7 @@
 ```
 npm install @solana/wallet-adapter-base @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js
 ```
+
+# Interview Questions
+
+[100x - Interview Ready Questions](https://even-vibraphone-a5a.notion.site/Interview-Ready-Questions-For-Cohort-16485a1d0bee80d1a1def4d05cfeed7d)
